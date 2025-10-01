@@ -39,10 +39,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/Maliph-Guye
+    https://github.com/Maliph-Guye
     # Uncomment below to add more social links
-     - https://www.facebook.com/tonnysbrendan.odhiambo
-     - https://www.linkedin.com/in/tonnis-ondito-354077224
+     https://www.facebook.com/tonnysbrendan.odhiambo
+     https://www.linkedin.com/in/tonnis-ondito-354077224
 
 # Site Verification Settings
 webmaster_verifications:
